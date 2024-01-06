@@ -1,2 +1,2 @@
 # Versionamento com Git e GitHub
- Primeiro repositório do curso de Git e GitHub
+ Primeiro repositório, para aprender e aplicar recursos de Git e GitHub
