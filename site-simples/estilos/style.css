@@ -20,6 +20,13 @@ a{
     color: #ffffff;
 }
 
+img{
+    width: 150px;
+    height: 150px;
+    border-top: 2px solid #ffffff;
+    border-bottom: 2px solid #ffffff;
+}
+
 main{  
     margin: auto;
     padding: 10px;
