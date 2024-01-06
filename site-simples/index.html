@@ -52,12 +52,27 @@
     <footer id="rodape">
         <ul>
             <li>
-                <a>GitHub</a>
+                <a href="https://github.com/marcos-kennedy" target="_blank" rel="noopener noreferrer">
+                    <img src="./imagens/github-logo.png" alt="logo do github">
+                    <p>GitHub</p>
+                </a>
             </li>
             <li>
-                <a>Telefone: +55 (31)98110-8381</a>
+                <a>
+                    <img src="./imagens/whatsapp.png" alt="logo do whatsapp">
+                    <p>(31)99999-9999</p>
+                </a>
             </li>
         </ul>
     </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            // Remove o hash da URL ao carregar a página
+            if (window.location.hash) {
+                window.location.hash = '';
+            }
+        });
+    </script>
 </body>
 </html>
