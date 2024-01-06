@@ -4,13 +4,18 @@
 }
 
 body{
-    background-color: rgb(177, 177, 250);
+    background-color: #4180ab;
 }
 
-main{
-    background-color: white;    
-    width: 500px;
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 20px;
+}
+
+main{  
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px  5px rgba(0, 0, 0, 0.473);
 }
