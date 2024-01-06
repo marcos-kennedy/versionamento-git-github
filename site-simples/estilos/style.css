@@ -23,8 +23,12 @@ a{
 img{
     width: 150px;
     height: 150px;
-    border-top: 2px solid #ffffff;
+    padding: 10px;
     border-bottom: 2px solid #ffffff;
+}
+
+.centro{
+    text-align: center;
 }
 
 main{  
